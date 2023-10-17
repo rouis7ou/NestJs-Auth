@@ -9,5 +9,5 @@ export interface ActiveUserData {
   role: Role;
 
   permissions: PermissionType[];
-  a;
+  
 }
